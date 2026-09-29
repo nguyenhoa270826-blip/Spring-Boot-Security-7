@@ -1,0 +1,6 @@
+{
+  "name": "Spring Boot Security 7 - All-in-One Full Project Generator",
+  "description": "Dự án hoàn chỉnh Spring Boot 4/Security 7 + SQL Server + Thymeleaf + MapStruct + Cloudinary + Mail OTP theo yêu cầu giáo viên",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
